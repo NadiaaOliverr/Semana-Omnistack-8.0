@@ -19,5 +19,7 @@ Este projeto consiste no desenvolvimento de um Tinder para desenvolvedores, cons
   
 ## Estrutura de Arquivos
 
+## Instalação
+
 
 
