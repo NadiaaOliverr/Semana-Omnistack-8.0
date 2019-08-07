@@ -1,6 +1,6 @@
 # Tindev
 
-![Tindev](https://github.com/NadiaaOliverr/Semana-Omnistack-8.0/blob/master/logo.png "Logo Tindev")
+:![Tindev](https://github.com/NadiaaOliverr/Semana-Omnistack-8.0/blob/master/logo.png "Logo Tindev"):
 
 ## Sobre o Projeto
 Este projeto é uma aplicação do desenvolvimento de um Tinder para desenvolvedores, construída com Nodejs, React e React Native. Vem pré configurado com:  
@@ -17,20 +17,4 @@ Este projeto é uma aplicação do desenvolvimento de um Tinder para desenvolved
   
 ## Estrutura de Arquivos
 
-Semana-Omnistack  
-├── backend/  
-│   ├── src/  
-│   │   ├──controllers/  
-│   │   │   └── DevController.js  
-│   │   │   └── Controller.js  
-│   │   │   └── LikeController.js  
-│   │   ├──models/  
-│   │   │   └── Dev.js  
-│   │   ├── routes.js  
-│   │   └── servers.js  
-│   │
-│   ├── node_modules/  
-│   ├── package.json  
-│   ├── yarn.lock  
-└── README.md  
 
