@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre o Projeto
-Este projeto é uma aplicação do desenvolvimento de um Tinder para desenvolvedores, construída com Nodejs, React e React Native. Vem pré configurado com:  
+Este projeto consiste no desenvolvimento de um Tinder para desenvolvedores, construído com Nodejs, React e React Native. Vem pré configurado com:  
 
 1. Axios
 2. Cors
@@ -18,5 +18,6 @@ Este projeto é uma aplicação do desenvolvimento de um Tinder para desenvolved
 * [Yarn](https://yarnpkg.com/pt-BR/)
   
 ## Estrutura de Arquivos
+
 
 
