@@ -1,5 +1,6 @@
 # Tindev
 
+![Tindev](https://github.com/NadiaaOliverr/Semana-Omnistack-8.0/blob/master/logo.png "Logo Tindev")
 
 ## Sobre o Projeto
 Este projeto é uma aplicação do desenvolvimento de um Tinder para desenvolvedores, construída com Nodejs, React e React Native. Vem pré configurado com:  
@@ -28,8 +29,8 @@ Semana-Omnistack
 │   │   ├── routes.js  
 │   │   └── servers.js  
 │   │
-├── node_modules/  
-├── package.json  
-├── yarn.lock  
+│   ├── node_modules/  
+│   ├── package.json  
+│   ├── yarn.lock  
 └── README.md  
 
