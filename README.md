@@ -1,7 +1,7 @@
 # Tindev
 
 <p align="center">
-  <img width="300" height="100" src="https://user-images.githubusercontent.com/41811634/62624829-56da6980-b8fa-11e9-9b55-4a88cebc03c4.png">
+  <img width="150" height="100" src="https://user-images.githubusercontent.com/41811634/62624829-56da6980-b8fa-11e9-9b55-4a88cebc03c4.png">
 </p>
 
 ## Sobre o Projeto
